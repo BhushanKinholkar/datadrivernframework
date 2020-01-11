@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144719" started-at="2020-01-04T08:22:09Z" finished-at="2020-01-04T08:24:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="144719" started-at="2020-01-04T08:22:09Z" finished-at="2020-01-04T08:24:33Z">
+      <class name="com.dataprovider.HalfEbay">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="OpenBrowser" is-config="true" duration-ms="82170" started-at="2020-01-04T08:22:13Z" finished-at="2020-01-04T08:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Datacollect(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="Datacollect" duration-ms="3121" started-at="2020-01-04T08:23:35Z" data-provider="getTestData" finished-at="2020-01-04T08:23:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pooja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kinholkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pojasd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Datacollect -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="endTest" is-config="true" duration-ms="1034" started-at="2020-01-04T08:23:38Z" finished-at="2020-01-04T08:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="OpenBrowser" is-config="true" duration-ms="16046" started-at="2020-01-04T08:23:39Z" finished-at="2020-01-04T08:23:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Datacollect(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="Datacollect" duration-ms="1368" started-at="2020-01-04T08:23:55Z" data-provider="getTestData" finished-at="2020-01-04T08:23:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kinholkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dfsdf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123abcpf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Datacollect -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="endTest" is-config="true" duration-ms="2218" started-at="2020-01-04T08:23:56Z" finished-at="2020-01-04T08:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="OpenBrowser" is-config="true" duration-ms="13800" started-at="2020-01-04T08:23:59Z" finished-at="2020-01-04T08:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Datacollect(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="Datacollect" duration-ms="1252" started-at="2020-01-04T08:24:12Z" data-provider="getTestData" finished-at="2020-01-04T08:24:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhushan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[weqwe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123er45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Datacollect -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="endTest" is-config="true" duration-ms="2276" started-at="2020-01-04T08:24:14Z" finished-at="2020-01-04T08:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="OpenBrowser" is-config="true" duration-ms="13353" started-at="2020-01-04T08:24:16Z" finished-at="2020-01-04T08:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Datacollect(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="Datacollect" duration-ms="1509" started-at="2020-01-04T08:24:29Z" data-provider="getTestData" finished-at="2020-01-04T08:24:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhuri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ingole]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdfsdf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12e34rt5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Datacollect -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.dataprovider.HalfEbay@194d431]" name="endTest" is-config="true" duration-ms="2631" started-at="2020-01-04T08:24:31Z" finished-at="2020-01-04T08:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.dataprovider.HalfEbay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
